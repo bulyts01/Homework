@@ -1,8 +1,3 @@
-/out/
-*.idea/
-/data/
-/lib/
-
 # Compiled class file
 *.class
 
@@ -29,3 +24,4 @@ hs_err_pid*
 replay_pid*
 /.idea/
 /HomeworkRepository.iml
+/data/
