@@ -1,0 +1,7 @@
+{
+  "name": "Иван Сидоров",
+  "age": 30,
+  "email": "ivan9087@yandex.ru",
+  "isPremium": true,
+  "friends": ["Кирилл, Игорь, Евгений"]
+}
